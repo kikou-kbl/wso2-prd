@@ -1,6 +1,8 @@
+apim.2.10.tar.gz
 bar.txt
 cat.bin
 dog.bin
 foo.txt
 g.sh
+lak.bin
 README.md

@@ -1,0 +1,3 @@
+foo.txt
+g.sh
+README.md
